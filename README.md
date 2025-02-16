@@ -4,3 +4,6 @@
 - git clone https://github.com/Boyoke-Encok/haha-wallet.git
 - cd haha-wallet
 - pip install -r requirements.txt
+# AKUN 
+- nano accounts.txt
+* email|password 
